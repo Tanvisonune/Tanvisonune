@@ -1,43 +1,57 @@
-<h1 align="center">Hi 👋, I'm Tanvi Sonune</h1>
-<h3 align="center">Final-year B.Tech IT Student | Building AI + Full-Stack Products</h3>
+<div align="center">
 
-<p align="center">
-I turn "what if" ideas into deployed products — from a hyperlocal doctor-booking 
-platform to an AI symptom checker to a multimodal depression screening system.
-Currently chasing a Core ML/AI or SDE role, one debugged CORS error at a time. 🐛→✅
-</p>
+# 👋 tanvi.exe --status running
 
-<p align="center">
-<a href="https://www.linkedin.com/in/tanvi-sonune-0a29a329a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:tanvisonune3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+### `Final-year IT student → shipping AI products → hunting SDE/ML roles`
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+an+AI+that+screens+depression+from+voice+%2B+face;Shipped+MediLocal+%E2%80%94+doctor+booking+for+tier+2%2F3+India;Currently+debugging+something+at+2+AM" alt="Typing SVG" />
 
-### 🔭 What I'm building right now
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/tanvi-sonune-0a29a329a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/Connect-LinkedIn-38BDF8?style=flat-square&logo=linkedin&logoColor=black"></a>
+<a href="mailto:tanvisonune3@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-Gmail-38BDF8?style=flat-square&logo=gmail&logoColor=black"></a>
 
-- 🧠 **AI-based Multimodal Depression Screening System** — text, audio, video & facial input fused with a self-designed Reliability Network + Confidence-Weighted Fusion, PHQ-8 scoring, SHAP explainability, auto-generated PDF reports
-- 🚀 **KaushalRadar** — Smart India Hackathon 2026 entry tackling skill-industry demand alignment for Maharashtra's Dept. of Skills
+</div>
 
-### 🛠 Shipped Projects
+<br>
 
-| Project | What it does | Stack |
-|---|---|---|
-| **MediLocal** | Hyperlocal doctor discovery + booking for tier 2/3 India, with an AI symptom checker | React · Node/Express · MongoDB Atlas · Groq LLaMA 3.3 |
-| **CookSmart** | Recipe platform with "Annapurna" — an AI smart-substitution bot | JS · Node/Express · Groq/LLaMA · Resend |
+### 🧭 Current focus
 
-### ⚡ Tech Stack
+I build things that solve real, slightly-annoying problems — a doctor-booking app 
+for cities Google Maps forgets, a bot that tells you what to swap when you're 
+out of an ingredient, and right now, an AI system trying to screen depression 
+from the way someone talks, looks, and writes.
 
-**Full-Stack:** ![](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css)
-**AI/ML:** ![](https://skillicons.dev/icons?i=python,tensorflow,opencv)
-**Embedded/Real-time:** ![](https://skillicons.dev/icons?i=cpp,arduino)
-**Tools:** ![](https://skillicons.dev/icons?i=git,github,vscode,vercel)
+<br>
 
-### 📊 GitHub Stats
+### 🌱 Project timeline
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
-</p>
+**2026 — AI-Based Multimodal Depression Screening** *(final-year project, team of 3)*
+Fuses text, audio, video & facial cues → PHQ-8 severity score → SHAP-explained PDF report. 
+Built a custom Reliability Network + Confidence-Weighted Fusion module from scratch.
 
-<p align="center"><i>"Continuously growing, one commit at a time."</i></p>
+**2026 — KaushalRadar** *(Smart India Hackathon)*
+Skill-industry demand alignment tool for Maharashtra's Skills Dept.
+
+**2025 — MediLocal**
+Hyperlocal doctor discovery + booking, with an AI symptom checker (Groq LLaMA 3.3).
+
+**2025 — CookSmart**
+Recipe platform with "Annapurna," an AI ingredient-substitution bot.
+
+<br>
+
+### ⚙️ Toolbox
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,react,nodejs,express,mongodb,js,ts,cpp,git,vercel&theme=dark" />
+
+<br>
+
+### 📈 The numbers
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Tanvisonune&show_icons=true&hide_border=true&theme=tokyonight&title_color=38BDF8&icon_color=38BDF8" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvisonune&hide_border=true&theme=tokyonight&ring=38BDF8&fire=38BDF8" height="160"/>
+</div>
+
+<div align="center">
+<sub>currently reading model logs instead of sleeping</sub>
+</div>
