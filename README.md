@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Tanvi sonune --status running
+# 👋 Hi I am Tanvi  --status running
 
 ### `Final-year IT student → shipping AI products → hunting SDE/ML roles`
 
@@ -13,7 +13,7 @@
 
 <br>
 
-### 🧭 Current focus
+### 🧭 About me
 
 I build things that solve real, slightly-annoying problems — a doctor-booking app 
 for cities Google Maps forgets, a bot that tells you what to swap when you're 
@@ -22,36 +22,8 @@ from the way someone talks, looks, and writes.
 
 <br>
 
-### 🌱 Project timeline
-
-**2026 — AI-Based Multimodal Depression Screening** *(final-year project, team of 3)*
-Fuses text, audio, video & facial cues → PHQ-8 severity score → SHAP-explained PDF report. 
-Built a custom Reliability Network + Confidence-Weighted Fusion module from scratch.
-
-**2026 — KaushalRadar** *(Smart India Hackathon)*
-Skill-industry demand alignment tool for Maharashtra's Skills Dept.
-
-**2025 — MediLocal**
-Hyperlocal doctor discovery + booking, with an AI symptom checker (Groq LLaMA 3.3).
-
-**2025 — CookSmart**
-Recipe platform with "Annapurna," an AI ingredient-substitution bot.
-
-<br>
-
 ### ⚙️ Toolbox
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,react,nodejs,express,mongodb,js,ts,cpp,git,vercel&theme=dark" />
 
-<br>
-
-### 📈 The numbers
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tanvisonune&show_icons=true&hide_border=true&theme=tokyonight&title_color=38BDF8&icon_color=38BDF8" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvisonune&hide_border=true&theme=tokyonight&ring=38BDF8&fire=38BDF8" height="160"/>
-</div>
-
-<div align="center">
-<sub>currently reading model logs instead of sleeping</sub>
 </div>
