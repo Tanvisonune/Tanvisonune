@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 tanvi.exe --status running
+# 👋 Tanvi sonune --status running
 
 ### `Final-year IT student → shipping AI products → hunting SDE/ML roles`
 
