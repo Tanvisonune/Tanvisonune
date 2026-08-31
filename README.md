@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi I am Tanvi  --status running
+# 👋 Hi I am Tanvi 
 
 ### `Final-year IT student → shipping AI products → hunting SDE/ML roles`
 
