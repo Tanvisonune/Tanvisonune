@@ -70,8 +70,8 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/tanvi-sonune-0a29a329a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"/></a>
+  <a href="mailto:tanvisonune3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>⚡ Currently building the future, one commit at a time.</i></p>
