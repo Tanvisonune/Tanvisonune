@@ -74,15 +74,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanvisonune&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Tanvisonune&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
   <img src="https://streak-stats.demolab.com?user=Tanvisonune&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvisonune&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
-> **Note:** these stat cards load from third-party free services (`github-readme-stats`, `streak-stats`). They occasionally rate-limit or go down and show a broken-image icon — this isn't an error in your file. If a card stays broken for more than a day, refresh the page, or self-host your own instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) via a free Vercel deploy for a permanent fix.
+
 
 ---
 
