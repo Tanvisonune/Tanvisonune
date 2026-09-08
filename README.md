@@ -63,18 +63,7 @@
 | 🏥 **MediLocal** | Hyperlocal doctor discovery & booking platform for tier 2/3 Indian cities, with AI symptom checker | React, Node.js, MongoDB, Groq LLaMA 3.3 |
 | 🍳 **CookSmart** | Recipe discovery platform with an AI "Smart Substitution Bot" (Annapurna) | JS, Node.js, MongoDB, Groq LLaMA |
 
----
 
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tanvisonune/Tanvisonune/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
-</p>
-
-<!-- 📊 GitHub Stats section temporarily removed — public stats service was down.
-     To re-add later, see the self-host fix discussed, or ask Claude to restore it. -->
-
----
 
 ### 📫 Connect With Me
 
