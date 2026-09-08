@@ -35,13 +35,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-**Embedded / Real-Time**
-<p>
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSocket-black?style=for-the-badge&logo=websocket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white"/>
-</p>
+
 
 **Languages & Tools**
 <p>
